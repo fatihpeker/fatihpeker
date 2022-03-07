@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Fatih 👋
+
+## I'm a computer engineer - developer!!
+
+- 🔭 I’m currently working on Java, Spring Boot, Flutter
+- 🌱 I’m currently learning web and mobil programing
+- 🤔 I’m looking for help with speech recognition with python
+
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fatih-peker-pc-engineer#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fatih-peker-pc-engineer#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+### Languages and Tools:
+
+
+[<img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />]
 
 <!--
 **fatihpeker/fatihpeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
