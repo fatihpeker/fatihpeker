@@ -8,8 +8,7 @@
 
 ### Connect with me:
 
-[![Linkedln](./img/linkedin-light.svg)](https://www.linkedin.com/in/fatih-peker-pc-engineer)
-[![Linkedln](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fatih-peker-pc-engineer)
+[![Linkedln](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/fatih-peker-pc-engineer)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
