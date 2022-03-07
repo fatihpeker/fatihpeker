@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning web and mobil programing
 - 🤔 I’m looking for help with speech recognition with python
 
+
+<!--
+
+
 ### Connect with me:
 
 [![Linkedln](src="https://img.icons8.com/color/48/000000/linkedin.png")](https://www.linkedin.com/in/fatih-peker-pc-engineer)
@@ -16,7 +20,6 @@
 
 [<img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" />]
 
-<!--
 **fatihpeker/fatihpeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
