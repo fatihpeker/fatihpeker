@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Java, Spring Boot, Flutter
 - 🌱 I’m currently learning web and mobil programing
 - 🤔 I’m looking for help with speech recognition with python
+- 📫 How to reach me: fthpeker61@gmail.com
 
 
 <!--
